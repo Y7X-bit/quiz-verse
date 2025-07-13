@@ -8,7 +8,7 @@ Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
 
 <img src="assets/1.png" width="500"/>
 
-<div>
+</div>
 
 ---
 
