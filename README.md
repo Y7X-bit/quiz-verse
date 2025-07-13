@@ -1,13 +1,18 @@
-<h1 align="center">🧠 QuizVerse</h1>
-<p align="center"><b>A slick and sharp multiple-choice quiz app built with Python + CustomTkinter</b></p>
+<div align="center">
 
-<p align="center">
-  <img src="assets/1.png" width="500"/>
-</p>
+# 🧠 QuizVerse
+**⚙️ UI logic sharp as ever – QuizVerse tweaked**
+
+A slick and sharp multiple-choice quiz app built with Python + CustomTkinter
+Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
+
+<img src="assets/1.png" width="500"/>
+
+<div>
 
 ---
 
-### 🚀 Features
+## 🌟 Features at a Glance
 
 - 🌑 **Dark Mode UI** — Smooth, visually chill interface
 - 🔴 **Red-hot Design** — Buttons, outlines with pitch red energy
@@ -19,7 +24,12 @@
 
 ---
 
-### 📦 Dependencies
+## 🖥️ Installation
+
+> Python 3.9 or later required
 
 ```bash
-pip install customtkinter requests
+git clone https://github.com/Y7X-bit/QuizVerse.git
+cd QuizVerse
+pip install -r requirements.txt
+python QuizVerse.py
